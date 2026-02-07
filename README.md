@@ -35,9 +35,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </p>
-
-<h3 align="left">GitHub Ecosystem:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil-Bagari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kapil-Bagari&show_icons=true&locale=en&theme=tokyonight" alt="Main Stats" />
-</p>
