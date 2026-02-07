@@ -1,12 +1,30 @@
-# 💫 About Me:
-# Hi there, I'm Kapil Singh Bagari 👋<br><br>### 🚀 Full-Stack Developer & Machine Learning Engineer<br>I specialize in building intelligent web applications by bridging the gap between robust **Django** backends and interactive **React** frontends, integrated with data-driven **ML models**.<br><br>---<br><br>### 🔭 Current Projects<br>* **House Price Prediction** | *ML Engineer*<br>    * Building predictive models using **Scikit-learn** and **Matplotlib** to analyze real estate trends.<br>* **Movie App** | *Full-Stack Developer*<br>    * Developing a comprehensive movie discovery platform using **React** and **Django**.<br><br>### 🌱 My Learning Roadmap<br>* **Advanced Django:** Mastering REST Frameworks and scalable backend architecture.<br>* **React Ecosystem:** Deep-diving into state management and performance optimization.<br><br>### 🛠️ Technical Toolbox<br>* **Languages:** `Python` `JavaScript` `SQL` `HTML5` `CSS3`<br>* **Frameworks/Libraries:** `Django` `React`<br>* **Data Science:** `Scikit-learn` `Matplotlib` `Pandas`<br>* **Databases:** `PostgreSQL/MySQL`<br><br>### 💬 Ask Me About<br>* **Python:** From core logic to data analysis.<br>* **Web Integration:** How to wrap a Machine Learning model into a functional web API.<br><br>### 📫 Connect with Me<br>* 📧 **Email:** [kbagri642@gmail.com](mailto:kbagri642@gmail.com)<br>* 🔗 **LinkedIn:** [Your LinkedIn Profile Link]<br><br>---<br><br>### 📊 GitHub Activity<br>![Kapil's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<h1 align="center">Hi 👋, I'm Kapil Singh Bagari</h1>
+<h3 align="center">A passionate full stack developer and ML engineer from India</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kapil-Bagai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kapil-Bagai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-Bagai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-bagari&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-bagari" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Kapil-Bagai&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil-bagari" alt="kapil-bagari" /></a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on [django](https://github.com/Kapil-Bagari/Learning-Django)
+
+- 🌱 I’m currently learning **React , Django**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Kapil-Bagari](https://github.com/Kapil-Bagari)
+
+- 💬 Ask me about **React and Django**
+
+- 📫 How to reach me **kbagri642@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kapil.bagri.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapil.bagri.09" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil-bagari&show_icons=true&locale=en&layout=compact" alt="kapil-bagari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil-bagari&show_icons=true&locale=en" alt="kapil-bagari" /></p>
