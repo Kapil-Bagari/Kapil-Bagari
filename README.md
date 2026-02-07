@@ -11,7 +11,7 @@
 * **[Movie Platform](https://moviewebsite-kapilbagri97-8457-kapilbagri97-8457s-projects.vercel.app/)** - A full-stack movie discovery app hosted on Vercel.
 * **[Amazon Clone](https://amazon-clone-8s912mzmn-kapilbagri97-8457s-projects.vercel.app/)** - A functional e-commerce clone demonstrating frontend and backend integration.
 * **[Django Learning](https://github.com/Kapil-Bagari/Learning-Django)** - My journey and documentation for mastering Django.
-* * **[House Price Prediction](https://house-price-prediction-kfgi.vercel.app/))** - A house price prediction project based on ML.
+* **[House Price Prediction](https://house-price-prediction-kfgi.vercel.app/))** - A house price prediction project based on ML.
 
 ---
 ### 🌱 Skills & Learning
