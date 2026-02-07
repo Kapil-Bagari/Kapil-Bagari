@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Kapil Singh Bagari 👋<br><br>### 🚀 Full-Stack Developer & Machine Learning Engineer<br>I specialize in building intelligent web applications by bridging the gap between robust **Django** backends and interactive **React** frontends, integrated with data-driven **ML models**.<br><br>---<br><br>### 🔭 Current Projects<br>* **House Price Prediction** | *ML Engineer*<br>    * Building predictive models using **Scikit-learn** and **Matplotlib** to analyze real estate trends.<br>* **Movie App** | *Full-Stack Developer*<br>    * Developing a comprehensive movie discovery platform using **React** and **Django**.<br><br>### 🌱 My Learning Roadmap<br>* **Advanced Django:** Mastering REST Frameworks and scalable backend architecture.<br>* **React Ecosystem:** Deep-diving into state management and performance optimization.<br><br>### 🛠️ Technical Toolbox<br>* **Languages:** `Python` `JavaScript` `SQL` `HTML5` `CSS3`<br>* **Frameworks/Libraries:** `Django` `React`<br>* **Data Science:** `Scikit-learn` `Matplotlib` `Pandas`<br>* **Databases:** `PostgreSQL/MySQL`<br><br>### 💬 Ask Me About<br>* **Python:** From core logic to data analysis.<br>* **Web Integration:** How to wrap a Machine Learning model into a functional web API.<br><br>### 📫 Connect with Me<br>* 📧 **Email:** [kbagri642@gmail.com](mailto:kbagri642@gmail.com)<br>* 🔗 **LinkedIn:** [Your LinkedIn Profile Link]<br><br>---<br><br>### 📊 GitHub Activity<br>![Kapil's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)<br>
 
-<!--
-**Kapil-Bagari/Kapil-Bagari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kapil.bagri.09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kbagri642@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kapil-Bagari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kapil-Bagari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-Bagari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kapil-Bagari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
