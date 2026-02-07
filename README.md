@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer and ML Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kapil-Bagari&label=Profile%20views&color=0e75b6&style=flat" alt="Kapil-Bagari" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kapil-Bagari&theme=radical" alt="Kapil-Bagari" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kapil-Bagari&label=PROFILE+VIEWS&color=9b59b6&style=plastic" alt="Kapil-Bagari" />
 </p>
 
 ---
