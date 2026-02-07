@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kapil Singh Bagari</h1>
 <h3 align="center">A passionate full stack developer and ML engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-bagari&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-bagari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kapil-Bagari&label=Profile%20views&color=0e75b6&style=flat" alt="Kapil-Bagari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil-bagari" alt="kapil-bagari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kapil-Bagari" alt="Kapil-Bagari" /></a> </p>
 
 - 🔭 I’m currently working on [django](https://github.com/Kapil-Bagari/Learning-Django)
 
