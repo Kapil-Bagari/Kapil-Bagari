@@ -10,7 +10,7 @@
 ### 🔭 Featured Projects
 * **[Movie Platform](https://moviewebsite-kapilbagri97-8457-kapilbagri97-8457s-projects.vercel.app/)** - A full-stack movie discovery app hosted on Vercel.
 * **[Amazon Clone](https://amazon-clone-8s912mzmn-kapilbagri97-8457s-projects.vercel.app/)** - A functional e-commerce clone demonstrating frontend and backend integration.
-* **[Django Learning](https://github.com/Kapil-Bagari/Learning-Django)** - My journey and documentation for mastering Django.
+* **[Weather Prediction](https://weather-api-project-murex.vercel.app/)** - Give the city's name it will give all weather details.
 * **[House Price Prediction](https://house-price-prediction-kfgi.vercel.app/)** - A house price prediction project based on ML.
 
 ---
