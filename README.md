@@ -12,6 +12,7 @@
 * **[Amazon Clone](https://amazon-clone-8s912mzmn-kapilbagri97-8457s-projects.vercel.app/)** - A functional e-commerce clone demonstrating frontend and backend integration.
 * **[Weather Prediction](https://weather-api-project-murex.vercel.app/)** - Give the city's name it will give all weather details.
 * **[House Price Prediction](https://house-price-prediction-kfgi.vercel.app/)** - A house price prediction project based on ML.
+* **[Cancer Analysis](https://cancer-survival-prediction-l5zu.vercel.app/)** - Analyzing the cancer paitent data project based on ML.
 
 ---
 ### 🌱 Skills & Learning
